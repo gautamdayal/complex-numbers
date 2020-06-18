@@ -1,5 +1,5 @@
 // Defining variables
-var side = 1000;
+var side = 800;
 var Z = {
   x: side / 2,
   y: side / 2,
