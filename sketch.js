@@ -92,8 +92,8 @@ function draw() {
     fill(255, 212, 56)
     noStroke();
     ellipse(iteration_screen[0], iteration_screen[1], 10);
-    fill(255);
-    text(str(i), iteration_screen[0], iteration_screen[1] - 20)
+    // fill(255);
+    // text(str(i), iteration_screen[0], iteration_screen[1] - 20)
   }
 
 }
