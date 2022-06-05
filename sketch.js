@@ -72,7 +72,7 @@ function draw() {
   }
 
   // Make Z ellipse draggable
-  if (dist(mouseIsPressed) {
+  if (mouseIsPressed) {
     fill(255);
     Z.x = mouse[0];
     Z.y = mouse[1];
